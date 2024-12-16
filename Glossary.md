@@ -10,20 +10,22 @@ Since working with Trados may be somehow demanding at the first glance, you may 
 short glossary comes in handy. In the course of your learning process, you are free to add any terms you like:
 
 
-| **CAT Tool**     | Computer-Assisted Translation tool used to aid translators by automating some aspects of the translation process. |
-| **TM (Translation Memory)** | A database that stores previously translated sentences, phrases, and segments along with their corresponding translations. |
-| **Segment**      | A section of text (sentence, phrase, or paragraph) that is treated as a single unit for translation. |
-| **Source Text**  | The original text that needs to be translated. |
-| **Target Text**  | The translated text resulting from the translation of the source text. |
-| **Bilingual File** | A file format that contains both the source and target language versions of a document for translation. |
-| **Quality Assurance (QA)** | The process of checking translated content for accuracy, consistency, and adherence to specified standards. |
-| **Trados package**     | A file you get for translation. In order to open it, just double click the icon. |
-| **Spell Check**  | A feature that verifies the spelling of words in the translated text. |
-| **Formatting**   | The process of preserving the formatting of the source text in the translated document. |
-| **Segmentation** | The process of dividing the source text into manageable segments for translation. |
-| **Translation Editor** | The interface within the CAT tool where translators input, edit, and review translations. |
-| **Term Recognition** | The feature that identifies and suggests translations for terms found in the source text based on the glossary or termbase. |
-| **Project Management** | The organization and coordination of tasks, resources, and timelines involved in translation projects. |
+# Translation Glossary
+
+| Term                       | Explanation |
+|----------------------------|-------------|
+| Translation Memory         | A database that stores previously translated text segments and their corresponding translations. |
+| 100% Matches               | Segments in the source text that match exactly with a segment stored in the Translation Memory. |
+| Fuzzy Matches              | Segments in the source text that partially match with a segment stored in the Translation Memory, requiring adjustments. |
+| Repetitions                | Identical segments that appear multiple times within the same document or project. |
+| Segment                    | A unit of text (sentence, phrase, or clause) broken down for translation by the software. |
+| Consistency                | The uniformity and accuracy of terminology and style throughout the translation. |
+| Revision                   | The process of reviewing and editing the translated content to ensure accuracy, completeness, and adherence to specifications. |
+| Trados Package             | A bundled file in SDL Trados Studio containing source files, translation memories, termbases, and project settings. |
+| Placeholder (Tag)          | A non-translatable element within a segment representing formatting or structural details. |
+| Spellcheck                 | A feature that checks the spelling of the translated text against a dictionary. |
+| Verify Function in Trados  | A quality assurance feature in SDL Trados Studio that identifies potential issues such as missing translations and inconsistencies. |
+
 
 
 
